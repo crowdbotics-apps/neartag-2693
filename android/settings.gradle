@@ -1,0 +1,3 @@
+rootProject.name = 'neartag_2693'
+
+include ':app'
